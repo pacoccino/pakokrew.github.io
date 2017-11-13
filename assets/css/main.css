@@ -1177,6 +1177,7 @@
 
 				ul.contact-icons > li a {
 					border-bottom: 0;
+					font-weight: 700;
 				}
 
 			ul.contact-icons.color1 > li:before {
